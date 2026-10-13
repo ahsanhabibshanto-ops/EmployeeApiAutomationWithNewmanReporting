@@ -33,3 +33,9 @@ npm i newman-reporter-htmlextra
 ``` bash
 node ./report.js
 ```
+
+## Newman Report
+<img width="703" height="728" alt="Screenshot 2026-10-13 213702" src="https://github.com/user-attachments/assets/90429d20-8169-48a6-a76b-dae673a3e38c" />
+<img width="691" height="454" alt="Screenshot 2026-10-13 213835" src="https://github.com/user-attachments/assets/362aeb27-d0b0-44b0-a100-a0f0fa521bdb" />
+
+
