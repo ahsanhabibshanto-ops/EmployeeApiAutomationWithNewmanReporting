@@ -13,7 +13,7 @@ This is an employee API automation project. This project is facilitated to Creat
 ## API Documentation [Employee API Documentation](https://documenter.getpostman.com/view/25113210/2sB3BLhSC1#intro)
 
 ## How to run this project
-```**Clone Project**```
+**Clone Project**
 ```bash
 https://github.com/ahsanhabibshanto-ops/EmployeeApiAutomationWithNewmanReporting.git
 ```
