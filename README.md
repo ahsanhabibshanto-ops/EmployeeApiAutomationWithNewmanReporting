@@ -17,4 +17,19 @@ This is an employee API automation project. This project is facilitated to Creat
 ```bash
 https://github.com/ahsanhabibshanto-ops/EmployeeApiAutomationWithNewmanReporting.git
 ```
-
+**Hit The Command**
+``` bash
+npm init -y
+```
+``` bash
+npm i newman
+```
+``` bash
+npx newman run [collection] -e ["environment"]
+```
+``` bash
+npm i newman-reporter-htmlextra
+```
+``` bash
+node ./report.js
+```
